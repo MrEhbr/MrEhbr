@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.0), today) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.0), 1 day ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 2 months ago) - Tool for seeding a database with records from simple .yaml files.
 
 <details>
@@ -18,7 +18,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (3 weeks ago)</li>
+  <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (4 weeks ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt  (1 month ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (2 months ago)</li>
   <li><a href="https://github.com/MrEhbr/pgxext">MrEhbr/pgxext</a> - A set of libraries for working with https://github.com/jackc/pgx (2 months ago)</li>
@@ -26,7 +26,7 @@
   <li><a href="https://github.com/auxten/postgresql-parser">auxten/postgresql-parser</a> - Pure Golang PostgreSQL (SQL:2011, SQL:2008, SQL:2003, SQL:1999, and SQL-92 Standard) Parser (9 months ago)</li>
   <li><a href="https://github.com/commitizen/cz-cli">commitizen/cz-cli</a> - The commitizen command line utility. #BlackLivesMatter (1 year ago)</li>
   <li><a href="https://github.com/charmbracelet/bubbletea">charmbracelet/bubbletea</a> - A powerful little TUI framework 🏗 (1 year ago)</li>
-  <li><a href="https://github.com/matryer/is">matryer/is</a> - Professional lightweight testing mini-framework for Go. (1 year ago)</li>
+  <li><a href="https://github.com/matryer/is">matryer/is</a> - Professional lightweight testing mini-framework for Go. (2 years ago)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 years ago)</li>
   </ul>
 
