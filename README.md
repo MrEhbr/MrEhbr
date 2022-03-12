@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.0), 6 days ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.0), 1 week ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 2 months ago) - Tool for seeding a database with records from simple .yaml files.
 
 <details>
