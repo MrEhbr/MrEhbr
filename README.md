@@ -24,7 +24,7 @@
   <li><a href="https://github.com/MrEhbr/pgxext">MrEhbr/pgxext</a> - A set of libraries for working with https://github.com/jackc/pgx (3 months ago)</li>
   <li><a href="https://github.com/cristalhq/aconfig">cristalhq/aconfig</a> - Simple, useful and opinionated config loader. (4 months ago)</li>
   <li><a href="https://github.com/auxten/postgresql-parser">auxten/postgresql-parser</a> - Pure Golang PostgreSQL (SQL:2011, SQL:2008, SQL:2003, SQL:1999, and SQL-92 Standard) Parser (10 months ago)</li>
-  <li><a href="https://github.com/commitizen/cz-cli">commitizen/cz-cli</a> - The commitizen command line utility. #BlackLivesMatter (1 year ago)</li>
+  <li><a href="https://github.com/commitizen/cz-cli">commitizen/cz-cli</a> - The commitizen command line utility. #BlackLivesMatter (2 years ago)</li>
   <li><a href="https://github.com/charmbracelet/bubbletea">charmbracelet/bubbletea</a> - A powerful little TUI framework 🏗 (2 years ago)</li>
   <li><a href="https://github.com/matryer/is">matryer/is</a> - Professional lightweight testing mini-framework for Go. (2 years ago)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 years ago)</li>
