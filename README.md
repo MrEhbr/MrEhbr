@@ -10,7 +10,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.0), 1 month ago) - command line tool that generates finite state machine for Go struct
-- [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 3 months ago) - Tool for seeding a database with records from simple .yaml files.
+- [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 4 months ago) - Tool for seeding a database with records from simple .yaml files.
 
 <details>
 
@@ -20,7 +20,7 @@
   
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (2 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt  (3 months ago)</li>
-  <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (3 months ago)</li>
+  <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (4 months ago)</li>
   <li><a href="https://github.com/MrEhbr/pgxext">MrEhbr/pgxext</a> - A set of libraries for working with https://github.com/jackc/pgx (4 months ago)</li>
   <li><a href="https://github.com/cristalhq/aconfig">cristalhq/aconfig</a> - Simple, useful and opinionated config loader. (4 months ago)</li>
   <li><a href="https://github.com/auxten/postgresql-parser">auxten/postgresql-parser</a> - Pure Golang PostgreSQL (SQL:2011, SQL:2008, SQL:2003, SQL:1999, and SQL-92 Standard) Parser (10 months ago)</li>
