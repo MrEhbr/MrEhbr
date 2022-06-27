@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.1](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.1), 1 month ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.1](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.1), 2 months ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 6 months ago) - Tool for seeding a database with records from simple .yaml files.
 
 <details>
@@ -19,7 +19,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (3 days ago)</li>
+  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (4 days ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (4 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt  (5 months ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (6 months ago)</li>
