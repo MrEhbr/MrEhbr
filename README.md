@@ -20,7 +20,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (2 weeks ago)</li>
+  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (3 weeks ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (5 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by Zsh implemented (6 months ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (6 months ago)</li>
