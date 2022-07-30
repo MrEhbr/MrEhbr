@@ -25,7 +25,7 @@
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (6 months ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (7 months ago)</li>
   <li><a href="https://github.com/MrEhbr/pgxext">MrEhbr/pgxext</a> - A set of libraries for working with https://github.com/jackc/pgx (7 months ago)</li>
-  <li><a href="https://github.com/cristalhq/aconfig">cristalhq/aconfig</a> - Simple, useful and opinionated config loader. (7 months ago)</li>
+  <li><a href="https://github.com/cristalhq/aconfig">cristalhq/aconfig</a> - Simple, useful and opinionated config loader. (8 months ago)</li>
   <li><a href="https://github.com/auxten/postgresql-parser">auxten/postgresql-parser</a> - Pure Golang PostgreSQL (SQL:2011, SQL:2008, SQL:2003, SQL:1999, and SQL-92 Standard) Parser (1 year ago)</li>
   <li><a href="https://github.com/commitizen/cz-cli">commitizen/cz-cli</a> - The commitizen command line utility. #BlackLivesMatter (2 years ago)</li>
   <li><a href="https://github.com/charmbracelet/bubbletea">charmbracelet/bubbletea</a> - A powerful little TUI framework 🏗 (2 years ago)</li>
