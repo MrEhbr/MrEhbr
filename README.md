@@ -12,7 +12,7 @@
 
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.1](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.1), 3 months ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 7 months ago) - Tool for seeding a database with records from simple .yaml files.
-- [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v1.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v1.0.0), 9 months ago) - A set of libraries for working with https://github.com/jackc/pgx
+- [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v1.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v1.0.0), 10 months ago) - A set of libraries for working with https://github.com/jackc/pgx
 
 <details>
 
