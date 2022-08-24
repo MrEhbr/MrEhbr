@@ -20,6 +20,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
+  <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for Oh My Fish  (similar to oh-my-zsh git) (today)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (2 months ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (6 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (7 months ago)</li>
@@ -29,7 +30,6 @@
   <li><a href="https://github.com/auxten/postgresql-parser">auxten/postgresql-parser</a> - Pure Golang PostgreSQL (SQL:2011, SQL:2008, SQL:2003, SQL:1999, and SQL-92 Standard) Parser (1 year ago)</li>
   <li><a href="https://github.com/commitizen/cz-cli">commitizen/cz-cli</a> - The commitizen command line utility. #BlackLivesMatter (2 years ago)</li>
   <li><a href="https://github.com/charmbracelet/bubbletea">charmbracelet/bubbletea</a> - A powerful little TUI framework 🏗 (2 years ago)</li>
-  <li><a href="https://github.com/matryer/is">matryer/is</a> - Professional lightweight testing mini-framework for Go. (2 years ago)</li>
   </ul>
 
   
