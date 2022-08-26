@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.1](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.1), 3 months ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v1.0.1](https://github.com/MrEhbr/go-fsm/releases/tag/v1.0.1), 4 months ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) ([v1.0.0](https://github.com/MrEhbr/populator/releases/tag/v1.0.0), 8 months ago) - Tool for seeding a database with records from simple .yaml files.
 - [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v1.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v1.0.0), 10 months ago) - A set of libraries for working with https://github.com/jackc/pgx
 
@@ -20,7 +20,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for Oh My Fish  (similar to oh-my-zsh git) (1 day ago)</li>
+  <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for Oh My Fish  (similar to oh-my-zsh git) (2 days ago)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (2 months ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (6 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (7 months ago)</li>
