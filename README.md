@@ -21,7 +21,7 @@
   <ul>
   
   <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for Oh My Fish  (similar to oh-my-zsh git) (3 months ago)</li>
-  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (5 months ago)</li>
+  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (6 months ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (10 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (11 months ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (1 year ago)</li>
