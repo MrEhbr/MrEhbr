@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.0.0), 1 week ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.0.0), 2 weeks ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v1.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v1.0.0), 1 year ago) - A set of libraries for working with https://github.com/jackc/pgx
 
 <details>
@@ -20,7 +20,7 @@
   <ul>
   
   <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for Oh My Fish  (similar to oh-my-zsh git) (4 months ago)</li>
-  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (6 months ago)</li>
+  <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (7 months ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (11 months ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (1 year ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (1 year ago)</li>
