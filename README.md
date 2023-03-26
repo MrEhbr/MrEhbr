@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v2.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v2.0.0), 4 days ago) - A set of libraries for working with https://github.com/jackc/pgx
+- [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v2.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v2.0.0), 5 days ago) - A set of libraries for working with https://github.com/jackc/pgx
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.0.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.0.0), 2 months ago) - command line tool that generates finite state machine for Go struct
 
 <details>
