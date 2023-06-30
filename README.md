@@ -19,11 +19,11 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (3 days ago)</li>
+  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (4 days ago)</li>
   <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for the Fish shell (similar to oh-my-zsh git) (10 months ago)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (1 year ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (1 year ago)</li>
-  <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (1 year ago)</li>
+  <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (2 years ago)</li>
   <li><a href="https://github.com/MrEhbr/populator">MrEhbr/populator</a> - Tool for seeding a database with records from simple .yaml files. (2 years ago)</li>
   <li><a href="https://github.com/MrEhbr/pgxext">MrEhbr/pgxext</a> - A set of libraries for working with https://github.com/jackc/pgx (2 years ago)</li>
   <li><a href="https://github.com/cristalhq/aconfig">cristalhq/aconfig</a> - Simple, useful and opinionated config loader. (2 years ago)</li>
