@@ -19,7 +19,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (5 days ago)</li>
+  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (6 days ago)</li>
   <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for the Fish shell (similar to oh-my-zsh git) (10 months ago)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (1 year ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (1 year ago)</li>
