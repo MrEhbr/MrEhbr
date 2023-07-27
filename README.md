@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.0.2](https://github.com/MrEhbr/go-fsm/releases/tag/v2.0.2), 1 day ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.0.2](https://github.com/MrEhbr/go-fsm/releases/tag/v2.0.2), 2 days ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v2.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v2.0.0), 4 months ago) - A set of libraries for working with https://github.com/jackc/pgx
 
 <details>
@@ -19,7 +19,7 @@
   <h4>⭐ Recent Stars</h4>
   <ul>
   
-  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (6 days ago)</li>
+  <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (1 week ago)</li>
   <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for the Fish shell (similar to oh-my-zsh git) (11 months ago)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (1 year ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (1 year ago)</li>
