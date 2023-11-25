@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.1.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.1.0), 3 months ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.1.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.1.0), 4 months ago) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) ([v2.0.0](https://github.com/MrEhbr/pgxext/releases/tag/v2.0.0), 8 months ago) - A set of libraries for working with https://github.com/jackc/pgx
 
 <details>
