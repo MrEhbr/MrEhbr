@@ -19,7 +19,7 @@
   <ul>
   
   <li><a href="https://github.com/MrEhbr/app">MrEhbr/app</a> -  (8 months ago)</li>
-  <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git plugin for the Fish shell (similar to oh-my-zsh git) (2 years ago)</li>
+  <li><a href="https://github.com/jhillyerd/plugin-git">jhillyerd/plugin-git</a> - Git aliases plugin for the Fish shell (similar to oh-my-zsh git) (2 years ago)</li>
   <li><a href="https://github.com/wailsapp/wails">wailsapp/wails</a> - Create beautiful applications using Go (2 years ago)</li>
   <li><a href="https://github.com/felixge/benchmore">felixge/benchmore</a> -  (2 years ago)</li>
   <li><a href="https://github.com/pure-fish/pure">pure-fish/pure</a> - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (2 years ago)</li>
