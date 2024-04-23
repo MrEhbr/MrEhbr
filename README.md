@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.1.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.1.0), 8 months ago) - command line tool that generates finite state machine for Go struct
+- [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) ([v2.1.0](https://github.com/MrEhbr/go-fsm/releases/tag/v2.1.0), 9 months ago) - command line tool that generates finite state machine for Go struct
 
 <details>
 
