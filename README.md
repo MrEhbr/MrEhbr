@@ -34,6 +34,7 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/kirsenn">kirsenn</a></li>
   <li><a href="https://github.com/kehoecj">kehoecj</a></li>
   <li><a href="https://github.com/Deprecator">Deprecator</a></li>
   </ul>
