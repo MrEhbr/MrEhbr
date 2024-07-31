@@ -4,7 +4,6 @@
 
 - [MrEhbr/str](https://github.com/MrEhbr/str) - helper functions to work with strings
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) - command line tool that generates finite state machine for Go struct
-- [MrEhbr/dotfiles](https://github.com/MrEhbr/dotfiles) - My dotfiles
 
 #### 🔭 Latest releases I've contributed to
 
