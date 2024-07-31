@@ -5,7 +5,6 @@
 - [MrEhbr/str](https://github.com/MrEhbr/str) - helper functions to work with strings
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/dotfiles](https://github.com/MrEhbr/dotfiles) - My dotfiles
-- [MrEhbr/populator](https://github.com/MrEhbr/populator) - Tool for seeding a database with records from simple .yaml files.
 
 #### 🔭 Latest releases I've contributed to
 
