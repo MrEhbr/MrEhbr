@@ -5,7 +5,6 @@
 - [MrEhbr/str](https://github.com/MrEhbr/str) - helper functions to work with strings
 - [MrEhbr/go-fsm](https://github.com/MrEhbr/go-fsm) - command line tool that generates finite state machine for Go struct
 - [MrEhbr/populator](https://github.com/MrEhbr/populator) - Tool for seeding a database with records from simple .yaml files.
-- [MrEhbr/pgxext](https://github.com/MrEhbr/pgxext) - A set of libraries for working with https://github.com/jackc/pgx
 
 #### 🔭 Latest releases I've contributed to
 
