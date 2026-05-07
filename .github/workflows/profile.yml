@@ -1,0 +1,50 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # daily, 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile.yml'
+      - 'scripts/generate-readme.sh'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          path: assets/stats.svg
+          options: username=${{ github.repository_owner }}&theme=github_dark&hide_border=true&hide=issues&show_icons=true&include_all_commits=true&card_width=400
+
+      - name: Render top-langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          path: assets/top-langs.svg
+          options: username=${{ github.repository_owner }}&theme=github_dark&hide_border=true&layout=compact&card_width=400&langs_count=6&hide=Tree-sitter%20Query,Nix,Lua,Shell,Vim%20Script,HTML,CSS,Roff,Makefile,Dockerfile,TeX,Just,Smarty,Go%20Template,JavaScript
+
+      - name: Render README sections
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: bash scripts/generate-readme.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile [skip ci]"
+            git push
+          fi
