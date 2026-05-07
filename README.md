@@ -10,7 +10,7 @@ Senior software engineer · Rust + Go
 ## Projects
 
 - **[pgsense-rs](https://github.com/MrEhbr/pgsense-rs)** — A rule-based Rust service that monitors PostgreSQL logical replication streams to detect sensitive data and trigger real-time alerts.
-- **[pgxext](https://github.com/MrEhbr/pgxext)** — A set of libraries for working with <https://github.com/jackc/pgx>
+- **[pgxext](https://github.com/MrEhbr/pgxext)** — A set of libraries for working with https://github.com/jackc/pgx
 - **[go-fsm](https://github.com/MrEhbr/go-fsm)** — command line tool that generates finite state machine for Go struct
 - **[str](https://github.com/MrEhbr/str)** — helper functions to work with strings
 - **[populator](https://github.com/MrEhbr/populator)** — Tool for seeding a database with records from simple .yaml files.
