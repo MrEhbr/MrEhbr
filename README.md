@@ -19,10 +19,10 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/MrEhbr](https://github.com/MrEhbr/MrEhbr)
 - ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 - ⬆️ Pushed to [MrEhbr/nvim-config](https://github.com/MrEhbr/nvim-config)
-- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 <!--END_SECTION:activity-->
 
 <div align="center">
