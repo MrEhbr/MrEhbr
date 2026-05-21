@@ -19,11 +19,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
+- 🌱 Created branch in [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
+- ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/sqlc-gen-go](https://github.com/MrEhbr/sqlc-gen-go)
-- ⬆️ Pushed to [MrEhbr/MrEhbr](https://github.com/MrEhbr/MrEhbr)
-- ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
-- ⬆️ Pushed to [MrEhbr/nvim-config](https://github.com/MrEhbr/nvim-config)
 <!--END_SECTION:activity-->
 
 <div align="center">
