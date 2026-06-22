@@ -19,11 +19,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
+- 📥 Opened PR [#1](https://github.com/MrEhbr/text-splitter/pull/1) in [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
 - ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 - ⬆️ Pushed to [MrEhbr/nvim-config](https://github.com/MrEhbr/nvim-config)
 - ⬆️ Pushed to [MrEhbr/cersei](https://github.com/MrEhbr/cersei)
-- 🗣 Commented on [#10](https://github.com/MrEhbr/pgsense-rs/issues/10) in [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
-- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 <!--END_SECTION:activity-->
 
 <div align="center">
