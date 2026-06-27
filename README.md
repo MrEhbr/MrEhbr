@@ -9,6 +9,7 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:repos-->
 ## Projects
 
+- **[confmark](https://github.com/MrEhbr/confmark)** — Bidirectional Markdown (CommonMark+GFM) <-> Confluence Storage Format converter (Rust lib + CLI)
 - **[pgsense-rs](https://github.com/MrEhbr/pgsense-rs)** — A rule-based Rust service that monitors PostgreSQL logical replication streams to detect sensitive data and trigger real-time alerts.
 - **[pgxext](https://github.com/MrEhbr/pgxext)** — A set of libraries for working with https://github.com/jackc/pgx
 - **[go-fsm](https://github.com/MrEhbr/go-fsm)** — command line tool that generates finite state machine for Go struct
@@ -19,11 +20,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
-- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
-- ⬆️ Pushed to [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
-- 🔀 Merged PR [#1](https://github.com/MrEhbr/text-splitter/pull/1) in [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
-- 📥 Opened PR [#1](https://github.com/MrEhbr/text-splitter/pull/1) in [MrEhbr/text-splitter](https://github.com/MrEhbr/text-splitter)
-- ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
+- ⬆️ Pushed to [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 🔀 Merged PR [#2](https://github.com/MrEhbr/confmark/pull/2) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 📥 Opened PR [#2](https://github.com/MrEhbr/confmark/pull/2) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 🌱 Created branch in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 🔀 Merged PR [#1](https://github.com/MrEhbr/confmark/pull/1) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 <!--END_SECTION:activity-->
 
 <div align="center">
