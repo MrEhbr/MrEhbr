@@ -21,10 +21,10 @@ Senior software engineer · Rust + Go
 ## Recent activity
 
 - ⬆️ Pushed to [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
-- 🔀 Merged PR [#2](https://github.com/MrEhbr/confmark/pull/2) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
-- 📥 Opened PR [#2](https://github.com/MrEhbr/confmark/pull/2) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
-- 🌱 Created branch in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
-- 🔀 Merged PR [#1](https://github.com/MrEhbr/confmark/pull/1) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 🔀 Merged PR [#4](https://github.com/MrEhbr/confmark/pull/4) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 📥 Opened PR [#4](https://github.com/MrEhbr/confmark/pull/4) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 🔀 Merged PR [#3](https://github.com/MrEhbr/confmark/pull/3) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
+- 📥 Opened PR [#3](https://github.com/MrEhbr/confmark/pull/3) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 <!--END_SECTION:activity-->
 
 <div align="center">
