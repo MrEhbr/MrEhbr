@@ -9,8 +9,8 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:repos-->
 ## Projects
 
-- **[confmark](https://github.com/MrEhbr/confmark)** — Bidirectional Markdown (CommonMark+GFM) <-> Confluence Storage Format converter (Rust lib + CLI)
 - **[pgsense-rs](https://github.com/MrEhbr/pgsense-rs)** — A rule-based Rust service that monitors PostgreSQL logical replication streams to detect sensitive data and trigger real-time alerts.
+- **[confmark](https://github.com/MrEhbr/confmark)** — Bidirectional Markdown (CommonMark+GFM) <-> Confluence Storage Format converter (Rust lib + CLI)
 - **[pgxext](https://github.com/MrEhbr/pgxext)** — A set of libraries for working with https://github.com/jackc/pgx
 - **[go-fsm](https://github.com/MrEhbr/go-fsm)** — command line tool that generates finite state machine for Go struct
 - **[str](https://github.com/MrEhbr/str)** — helper functions to work with strings
