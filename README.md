@@ -20,11 +20,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 - 🔀 Merged PR [#4](https://github.com/MrEhbr/confmark/pull/4) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 - 📥 Opened PR [#4](https://github.com/MrEhbr/confmark/pull/4) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 - 🔀 Merged PR [#3](https://github.com/MrEhbr/confmark/pull/3) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
-- 📥 Opened PR [#3](https://github.com/MrEhbr/confmark/pull/3) in [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 <!--END_SECTION:activity-->
 
 <div align="center">
