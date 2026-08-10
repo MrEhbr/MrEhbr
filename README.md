@@ -21,7 +21,6 @@ Senior software engineer · Rust + Go
 ## Recent activity
 
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
-- ⬆️ Pushed to [MrEhbr/confmark](https://github.com/MrEhbr/confmark)
 <!--END_SECTION:activity-->
 
 <div align="center">
