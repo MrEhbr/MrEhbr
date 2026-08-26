@@ -20,6 +20,7 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/dev-templates](https://github.com/MrEhbr/dev-templates)
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 <!--END_SECTION:activity-->
 
