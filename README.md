@@ -21,8 +21,8 @@ Senior software engineer · Rust + Go
 ## Recent activity
 
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
+- ⬆️ Pushed to [MrEhbr/sqlc-gen-go](https://github.com/MrEhbr/sqlc-gen-go)
 - ⬆️ Pushed to [MrEhbr/nvim-config](https://github.com/MrEhbr/nvim-config)
-- ⬆️ Pushed to [MrEhbr/dev-templates](https://github.com/MrEhbr/dev-templates)
 <!--END_SECTION:activity-->
 
 <div align="center">
