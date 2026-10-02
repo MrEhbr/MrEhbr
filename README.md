@@ -9,6 +9,7 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:repos-->
 ## Projects
 
+- **[yokoku](https://github.com/MrEhbr/yokoku)** — Self-hosted manager for a movie and TV library: tracks releases, imports torrents from Transmission and organizes files for Jellyfin.
 - **[pgsense-rs](https://github.com/MrEhbr/pgsense-rs)** — A rule-based Rust service that monitors PostgreSQL logical replication streams to detect sensitive data and trigger real-time alerts.
 - **[confmark](https://github.com/MrEhbr/confmark)** — Bidirectional Markdown (CommonMark+GFM) <-> Confluence Storage Format converter (Rust lib + CLI)
 - **[pgxext](https://github.com/MrEhbr/pgxext)** — A set of libraries for working with https://github.com/jackc/pgx
@@ -20,8 +21,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- 🚀 Released [v0.1.0](https://github.com/MrEhbr/yokoku/releases/tag/v0.1.0) in [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
+- 🗣 Commented on [#35](https://github.com/MrEhbr/pgsense-rs/issues/35) in [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
+- 🗣 Commented on [#30](https://github.com/MrEhbr/pgsense-rs/issues/30) in [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
+- ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
-- ⬆️ Pushed to [MrEhbr/sqlc-gen-go](https://github.com/MrEhbr/sqlc-gen-go)
 <!--END_SECTION:activity-->
 
 <div align="center">
