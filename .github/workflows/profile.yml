@@ -25,6 +25,8 @@ jobs:
           card: stats
           path: assets/stats.svg
           options: username=${{ github.repository_owner }}&theme=github_dark&hide_border=true&hide=issues&show_icons=true&include_all_commits=true&card_width=400
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
 
       - name: Render top-langs card
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,6 +34,8 @@ jobs:
           card: top-langs
           path: assets/top-langs.svg
           options: username=${{ github.repository_owner }}&theme=github_dark&hide_border=true&layout=compact&card_width=400&langs_count=6&hide=Tree-sitter%20Query,Nix,Lua,Shell,Vim%20Script,HTML,CSS,Roff,Makefile,Dockerfile,TeX,Just,Smarty,Go%20Template,JavaScript
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
 
       - name: Render README sections
         env:
