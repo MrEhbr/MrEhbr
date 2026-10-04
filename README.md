@@ -21,11 +21,11 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
-- ⬆️ Pushed to [MrEhbr/nur-packages](https://github.com/MrEhbr/nur-packages)
+- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
+- ⬆️ Pushed to [MrEhbr/nur-packages](https://github.com/MrEhbr/nur-packages)
+- ⬆️ Pushed to [MrEhbr/MrEhbr](https://github.com/MrEhbr/MrEhbr)
 - 🚀 Released [v0.1.0](https://github.com/MrEhbr/yokoku/releases/tag/v0.1.0) in [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
-- 🗣 Commented on [#35](https://github.com/MrEhbr/pgsense-rs/issues/35) in [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
-- 🗣 Commented on [#30](https://github.com/MrEhbr/pgsense-rs/issues/30) in [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 <!--END_SECTION:activity-->
 
 <div align="center">
