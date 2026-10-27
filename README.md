@@ -21,9 +21,9 @@ Senior software engineer · Rust + Go
 <!--START_SECTION:activity-->
 ## Recent activity
 
+- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/nur-packages](https://github.com/MrEhbr/nur-packages)
 - ⬆️ Pushed to [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
-- ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/MrEhbr](https://github.com/MrEhbr/MrEhbr)
 - 🚀 Released [v0.1.0](https://github.com/MrEhbr/yokoku/releases/tag/v0.1.0) in [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
 <!--END_SECTION:activity-->
