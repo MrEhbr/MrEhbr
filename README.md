@@ -24,7 +24,6 @@ Senior software engineer · Rust + Go
 - ⬆️ Pushed to [MrEhbr/nix-config](https://github.com/MrEhbr/nix-config)
 - ⬆️ Pushed to [MrEhbr/nur-packages](https://github.com/MrEhbr/nur-packages)
 - ⬆️ Pushed to [MrEhbr/yokoku](https://github.com/MrEhbr/yokoku)
-- ⬆️ Pushed to [MrEhbr/pgsense-rs](https://github.com/MrEhbr/pgsense-rs)
 <!--END_SECTION:activity-->
 
 <div align="center">
